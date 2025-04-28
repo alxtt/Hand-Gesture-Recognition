@@ -48,6 +48,11 @@
 
 ## Использование
 
+Зависимости
+- PyTorch
+- OpenCV
+- MediaPipe
+
 Для определения жестов на видеопотоке с камеры:
 - ``` python naive_from_video.py ```
 - ``` python resnet_from_video.py ```
